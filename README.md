@@ -1,4 +1,4 @@
-# lab2
+# lab-mis
 
 A new Flutter project.
 
